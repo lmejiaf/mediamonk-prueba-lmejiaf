@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "media-monk-lmejiaf",
+    "slug": "media-monk-lmejiaf",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "media-monk-lmejiaf"
+}
